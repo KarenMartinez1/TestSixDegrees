@@ -1,0 +1,17 @@
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\TestSixDegrees.Persistance.dll.config
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\TestSixDegrees.Persistance.dll
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\TestSixDegrees.Persistance.pdb
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\TestSixDegrees.Domain.dll
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\TestSixDegrees.Domain.pdb
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\TestSixDegrees.Domain.dll.config
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.csproj.AssemblyReference.cache
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.Migrations.Initialization.resources
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.csproj.GenerateResource.cache
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.csproj.CopyComplete
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.dll
+C:\Users\krend\OneDrive\Escritorio\Prueba\TestSixDegrees\TestSixDegrees.Persistance\obj\Debug\TestSixDegrees.Persistance.pdb
